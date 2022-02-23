@@ -4,7 +4,7 @@
 
 #### - Location: Online 
 
-### <a href="https://github.com/ThamesEstuaryPartnership/3cs/blob/main/Coastal%20Habitat%20Restoration%20in%20the%20Thames-%20Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
+### <a href="https://thamesestuarypartnership.github.io/3cs/docs/Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
 
 Before the workshop, please fill out the restoration projects survey below. Submission deadline is the **9th March 2022**. 
 
