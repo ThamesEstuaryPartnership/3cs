@@ -8,7 +8,7 @@
 
 **Before the workshop, please fill out the restoration projects survey below. The submitted data will be mapped and used during the workshop.**
 
-**The submission deadline is the <u>9th March 2022</u>.**
+**Submission deadline: <u>9th March 2022</u>**
 
 **- Restoration projects - <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">survey</a>**
 
