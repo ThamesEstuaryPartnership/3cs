@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: Coastal Habitat Restoration in the Thames
+logo: https://www.arcgis.com/sharing/rest/content/items/a425bad4dfc8413abd8960ddf9976e77/info/media/logos_1645527568662.png
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:w.bodnar@ucl.ac.uk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.thamesestuarypartnership.org/"
