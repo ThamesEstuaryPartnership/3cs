@@ -6,7 +6,7 @@
 
 ### <a href="https://thamesestuarypartnership.github.io/3cs/docs/Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
 
-**Before the workshop, please fill out the restoration projects survey below. Submission deadline is the <p style="color:red;">9th March 2022</p>.**
+**Before the workshop, please fill out the restoration projects survey below. Submission deadline is the <u>9th March 2022</u>.**
 
 **- Restoration projects - <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">survey</a>**
 
