@@ -10,7 +10,7 @@
 
 **Submission deadline: <u>9th March 2022</u>**
 
-**- Restoration projects survey <i class="fas fa-arrow-right"></i> <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">CLICK HERE</a>**
+**- Restoration projects survey <a class="fas fa-arrow-right"></a> <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">CLICK HERE</a>**
 
 <br>
 <br>
