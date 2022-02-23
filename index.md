@@ -12,19 +12,6 @@
 
 **- Restoration projects survey - <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">CLICK HERE</a>**
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <hr>
 <center><p style="color:#267CB9">2022 © Zoological Society of London & Thames Estuary Partnership</p></center>
 
