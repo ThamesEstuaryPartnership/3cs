@@ -4,13 +4,13 @@
 
 #### - Location: Online 
 
-### <a href="https://thamesestuarypartnership.github.io/3cs/docs/Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
+### 1. <a href="https://thamesestuarypartnership.github.io/3cs/docs/Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
 
 **Before the workshop, please fill out the restoration projects survey below. The submitted data will be mapped and used during the workshop.**
 
 **Submission deadline: <u>9th March 2022</u>**
 
-**<a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">CLICK HERE</a> to enter your restoration project**
+**2. <a href="https://survey123.arcgis.com/share/a425bad4dfc8413abd8960ddf9976e77" target="_blank">CLICK HERE</a> to enter your restoration project.**
 
 <br>
 <br>
