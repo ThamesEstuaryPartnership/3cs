@@ -2,7 +2,7 @@
 
 #### - Date & time: 15th March 2022, 10.00-13.00
 
-#### - Location: Online 
+#### - Location: via Zoom
 
 ### I. <a href="https://thamesestuarypartnership.github.io/3cs/docs/Workshop%20Introduction.pdf" target="_blank">Introductory reading</a>
 
